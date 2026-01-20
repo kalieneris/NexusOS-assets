@@ -12,12 +12,12 @@ Upper Mix
 - Set 1: 0lbs x 60
 ### incline_db_bench_press
 - Set 1: 30lbs x 12
-- Set 2: 30lbs x 12
-- Set 3: 30lbs x 12
+- Set 2: 35lbs x 12
+- Set 3: 35lbs x 12
 ### chest_supported_db_row_incline
 - Set 1: 30lbs x 12
-- Set 2: 30lbs x 12
-- Set 3: 30lbs x 12
+- Set 2: 33lbs x 12
+- Set 3: 33lbs x 12
 ### face_pulls
 - Set 1: 0lbs x 20
 - Set 2: 0lbs x 20
