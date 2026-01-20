@@ -36,8 +36,6 @@ HEAVY UPPER B
 - Set 3: 34lbs x 12
 ### dead_hang
 - Set 1: 0lbs x 0
-- Set 2: 0lbs x 0
-- Set 3: 0lbs x 0
 ### doorway_pec_stretch
 - Set 1: 0lbs x 0
 - Set 2: 0lbs x 0
