@@ -1,49 +1,63 @@
-# Workout: CAPRICORN SESSION 2
-LOWER RECOVERY PIVOT
+# Workout: CAPRICORN SESSION 3
+HEAVY UPPER B
 **Date:** 1/20/2026
 **Assigned By:** Aiden
 
 ## Logs
 ### sun_salutation_a
+- Set 1: 0lbs x 3
+### band_dislocates_pass_throughs
 - Set 1: 0lbs x 0
-### 90_90_hip_switch
-- Set 1: 0lbs x 0
+### scapular_pull_ups
+- Set 1: 0lbs x 10
 ### cat_cow
 - Set 1: 0lbs x 0
-### worlds_greatest_stretch
-- Set 1: 0lbs x 0
-### tibialis_raises
-- Set 1: 0lbs x 20
-### barbell_hip_thrust
-- Set 1: 68lbs x 15
-- Set 2: 68lbs x 15
-- Set 3: 68lbs x 15
-### pallof_press
-- Set 1: 0lbs x 12
-- Set 2: 0lbs x 12
-- Set 3: 0lbs x 12
-### seated_calf_raise
-- Set 1: 68lbs x 20
-- Set 2: 68lbs x 20
-- Set 3: 68lbs x 20
-### dead_bug
+### pushup_to_down_dog
 - Set 1: 0lbs x 10
-- Set 2: 0lbs x 10
-- Set 3: 0lbs x 10
+### db_incline_bench_press
+- Set 1: 34lbs x 8
+- Set 2: 34lbs x 8
+- Set 3: 34lbs x 8
+### db_chest_supported_row
+- Set 1: 34lbs x 10
+- Set 2: 34lbs x 10
+- Set 3: 34lbs x 10
+### face_pulls
+- Set 1: 0lbs x 20
+- Set 2: 0lbs x 20
+- Set 3: 0lbs x 20
+### banded_lateral_raise
+- Set 1: 0lbs x 15
+- Set 2: 0lbs x 15
+- Set 3: 0lbs x 15
+### db_overhead_tricep_extension
+- Set 1: 34lbs x 12
+- Set 2: 34lbs x 12
+- Set 3: 34lbs x 12
 ### dead_hang
 - Set 1: 0lbs x 0
 - Set 2: 0lbs x 0
 - Set 3: 0lbs x 0
-### couch_stretch
+### doorway_pec_stretch
 - Set 1: 0lbs x 0
 - Set 2: 0lbs x 0
-### pigeon_pose
+### thread_the_needle
 - Set 1: 0lbs x 0
 - Set 2: 0lbs x 0
-### legs_up_wall
+### childs_pose
+- Set 1: 0lbs x 0
+### deep_breathing
 - Set 1: 0lbs x 0
 
-## Notes
-4sec negative on the hip thrusts.
-Double red on Pallof.
-Skipped most of warmup/cooldown due to schedule crunch.
+## Trainer Directives
+The Saturnian Tax: 34 lbs fixed load. Focus: Clavicular Pec (shelf) and Lat density.
+
+Note: If grip fails on rows, do not truncate the set. Use a 'hook' grip or brief pauses to ensure the back reaches failure, not just the fingers.
+
+## Trainer Closing Notes
+1. What was the RPE (1-10) for Block A? Did the 4-second negative force technical failure?
+2. Protein Check: Did you clear 150g today?
+3. Any unusual joint friction in the shoulders during the Incline Press?
+
+## Athlete Feedback
+N/A
