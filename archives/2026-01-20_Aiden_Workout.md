@@ -8,7 +8,7 @@ HEAVY UPPER B
 - Set 1: 0lbs x 3
 ### band_dislocates
 - Set 1: 0lbs x 0
-### scapular_pullups
+### scapular_pull_up
 - Set 1: 0lbs x 10
 ### cat_cow
 - Set 1: 0lbs x 0
@@ -22,11 +22,11 @@ HEAVY UPPER B
 - Set 1: 34lbs x 10
 - Set 2: 34lbs x 10
 - Set 3: 34lbs x 10
-### banded_face_pulls
+### face_pulls
 - Set 1: 0lbs x 20
 - Set 2: 0lbs x 20
 - Set 3: 0lbs x 20
-### banded_lateral_raises
+### banded_lateral_raise
 - Set 1: 0lbs x 15
 - Set 2: 0lbs x 15
 - Set 3: 0lbs x 15
