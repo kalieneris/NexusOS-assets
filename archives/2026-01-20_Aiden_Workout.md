@@ -6,19 +6,19 @@ HEAVY UPPER B
 ## Logs
 ### sun_salutation_a
 - Set 1: 0lbs x 3
-### band_dislocates
+### band_dislocates_pass_throughs
 - Set 1: 0lbs x 0
-### scapular_pull_up
+### scapular_pull_ups
 - Set 1: 0lbs x 10
 ### cat_cow
 - Set 1: 0lbs x 0
 ### pushup_to_down_dog
 - Set 1: 0lbs x 10
-### incline_db_bench_press
+### db_incline_bench_press
 - Set 1: 34lbs x 8
 - Set 2: 34lbs x 8
 - Set 3: 34lbs x 8
-### chest_supported_db_row
+### db_chest_supported_row
 - Set 1: 34lbs x 10
 - Set 2: 34lbs x 10
 - Set 3: 34lbs x 10
@@ -30,7 +30,7 @@ HEAVY UPPER B
 - Set 1: 0lbs x 15
 - Set 2: 0lbs x 15
 - Set 3: 0lbs x 15
-### overhead_db_tricep_extension
+### db_overhead_tricep_extension
 - Set 1: 34lbs x 12
 - Set 2: 34lbs x 12
 - Set 3: 34lbs x 12
