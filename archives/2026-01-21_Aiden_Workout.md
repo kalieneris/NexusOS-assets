@@ -19,8 +19,8 @@ HEAVY LOWER A
 - Set 2: 34lbs x 12
 - Set 3: 34lbs x 12
 ### seated_calf_raise_barbell
-- Set 1: 68lbs x 15
-- Set 2: 68lbs x 15
+- Set 1: 68lbs x 20
+- Set 2: 68lbs x 20
 - Set 3: 68lbs x 15
 ### pallof_press
 - Set 1: 0lbs x 12
@@ -45,4 +45,7 @@ Focus: Balance, depth, and maintaining a vertical spine. Do not rush.
 3. Protein: Did you hit the 150g target today?
 
 ## Athlete Feedback
-N/A
+I think you might've short changed the warm up today. Definitely need to start with some sun salutations or the like to wake the body up before these big lifts.
+Just barely finished block one.
+Third set of calf raises should be 20 reps as well. I mis-clicked in the app.
+There was only one set of pigeon pose sent to the app. Make sure to send two sets for all unilateral stretches (like you did with Couch Stretch) so the app can set a timer for each of them.
